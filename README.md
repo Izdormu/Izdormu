@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning: HTML, CSS, JS, React,Redux
+🌱 I’m currently learning: TS,Redux
 
 
 ## 🌐 Socials:
